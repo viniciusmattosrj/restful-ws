@@ -16,6 +16,7 @@
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
-    "restify": "^8.5.1"
+    "restify": "^8.5.1",
+    "restify-cors-middleware": "^1.1.1"
   }
 }
