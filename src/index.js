@@ -1,9 +1,3 @@
-const restify = require('restify');
-
-const server = restify.createServer();
-
-server.get('/', (req, res, next) => {
-    next();
-});
+const server = require('./server');
 
 server.listen('3456');
